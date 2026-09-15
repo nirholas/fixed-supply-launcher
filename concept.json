@@ -1,0 +1,11 @@
+{
+  "slug": "fixed-supply-launcher",
+  "name": "Fixed Supply Launcher",
+  "kind": "token",
+  "description": "Prepare an atomic Token-2022 create, mint, and revoke transaction plan.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
