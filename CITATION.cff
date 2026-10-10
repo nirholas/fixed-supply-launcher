@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "fixed-supply-launcher"
+abstract: "Prepare an atomic Token-2022 create, mint, and revoke transaction plan."
+repository-code: "https://github.com/nirholas/fixed-supply-launcher"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
