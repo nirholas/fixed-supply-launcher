@@ -8,7 +8,7 @@ Prepare an atomic Token-2022 create, mint, and revoke transaction plan.
 
 - Source: https://github.com/nirholas/fixed-supply-launcher
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
